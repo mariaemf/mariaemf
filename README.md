@@ -20,7 +20,7 @@
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
   
-  <img align="right" alt="me-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/106125592/205510330-8a518ca0-d282-494f-bbef-e295bb5cb829.png">
+  <img align="right" alt="me-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/597326_iTP75hWd.png">
 </div>
   
   ##
