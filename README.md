@@ -1,4 +1,4 @@
-## *Oie eu sou a Maria, Desenvolvedora Front-End!*
+## *Oie eu sou a Maria, Desenvolvedora Front-End! 🎀*
 
 
 <div >
