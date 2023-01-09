@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Oie!+eu+sou+Maria,+Desenvolvedora+Front-end!;Seja+muito+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <div >
+  
   <a href="https://github.com/mariaemf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaemf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaemf&layout=compact&langs_count=7&theme=dracula"/>
