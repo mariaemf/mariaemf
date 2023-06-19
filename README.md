@@ -13,12 +13,16 @@
 </div>
 
 <div style="display: inline_block"><br>
+<img align="center" alt="Tailwind" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind&theme=light">
+<img align="center" alt="styledcomponents" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents&theme=light">
+<img align="center" alt="nextjs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs&theme=light">
+<img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=git&theme=light">
+ <img align="center" alt="bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=light">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ReactJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
   
