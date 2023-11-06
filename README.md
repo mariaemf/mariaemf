@@ -6,10 +6,12 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=false&vCenter=true&width=1000&lines=Olá!+eu+sou+Maria,+Desenvolvedora+Front-end!;+:%29)](https://git.io/typing-svg)
   
   
-  
+<div align="initial">  
 <p>
-    Focada e dedicada, estabeleci uma rotina disciplinada onde meu principal objetivo é estudar tecnologias e aprimorar minhas habilidades no desenvolvimento web e mobile. Minha jornada envolve não apenas a busca incessante por conhecimento nas tecnologias fundamentais para o front-end, mas também o aprimoramento das minhas competências em usabilidade, design e desenvolvimento web de forma abrangente. Constantemente aplico meu conhecimento em projetos pessoais e profissionais, criando soluções concretas e proporcionando experiências agradáveis e intuitivas para os usuários. Busco incansavelmente seguir as melhores práticas de programação e usabilidade, garantindo que os usuários desfrutem da melhor experiência possível. 🚀
+    Focada e dedicada, estabeleci uma rotina disciplinada onde meu principal objetivo é estudar tecnologias e aprimorar minhas habilidades no desenvolvimento web e mobile. </p>
+   <p> Minha jornada envolve não apenas a busca incessante por conhecimento nas tecnologias fundamentais para o front-end, mas também o aprimoramento das minhas competências em usabilidade, design e desenvolvimento web de forma abrangente. </p> <p> Constantemente aplico meu conhecimento em projetos pessoais e profissionais, criando soluções concretas e proporcionando experiências agradáveis e intuitivas para os usuários. Busco incansavelmente seguir as melhores práticas de programação e usabilidade, garantindo que os usuários desfrutem da melhor experiência possível. 🚀
 </p>
+  </div>
 
   <div align="center">
     <a href="https://github.com/mariaemf">
