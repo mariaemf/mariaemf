@@ -2,8 +2,8 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=false&vCenter=true&width=1000&lines=Olá!+eu+sou+Maria,+Desenvolvedora+Front-end!)](https://git.io/typing-svg)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=false&vCenter=true&width=1000&lines=Olá!+eu+sou+Maria,+Desenvolvedora+Front-end!;+:%29)](https://git.io/typing-svg)
   
   
 <div align="initial">  
@@ -14,6 +14,7 @@
   </div>
 
 <div align="center">
+
   <a href="https://github.com/mariaemf">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaemf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   </a>
