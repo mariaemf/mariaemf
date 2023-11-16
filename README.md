@@ -8,7 +8,7 @@
   
 <div align="initial">  
 <p>
-    Focada e dedicada, estabeleci uma rotina disciplinada onde meu principal objetivo é estudar tecnologias e aprimorar minhas habilidades no desenvolvimento web e mobile. </p>
+    Com muito foco e dedicação, estabeleci uma rotina disciplinada onde meu principal objetivo é estudar tecnologias e aprimorar minhas habilidades no desenvolvimento web e mobile. </p>
    <p> Minha jornada envolve não apenas a busca incessante por conhecimento nas tecnologias fundamentais para o front-end, mas também o aprimoramento das minhas competências em usabilidade, design e desenvolvimento web de forma abrangente. </p> <p> Constantemente aplico meu conhecimento em projetos pessoais e profissionais, criando soluções concretas e proporcionando experiências agradáveis e intuitivas para os usuários. Busco incansavelmente seguir as melhores práticas de programação e usabilidade, garantindo que os usuários desfrutem da melhor experiência possível. 👩🏻‍💻</p>
   </div>
 
