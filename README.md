@@ -8,7 +8,7 @@
   
 <div align="initial">  
 <p>
-    Com muita dedicação e foco, elaborei uma rotina rigorosa com o intuito primordial de aprimorar minha trajetória profissional, especialmente no domínio das tecnologias, visando a melhoria contínua das minhas habilidades no desenvolvimento web e mobile.. </p>
+    Com dedicação e foco, elaborei uma rotina rigorosa com o intuito primordial de aprimorar minha trajetória profissional, especialmente no domínio das tecnologias, visando a melhoria contínua das minhas habilidades no desenvolvimento web e mobile.. </p>
    <p> Minha jornada envolve não apenas a busca incessante por conhecimento nas tecnologias fundamentais para o front-end, mas também o aprimoramento das minhas competências em usabilidade, design e desenvolvimento web de forma abrangente. </p> <p> Constantemente aplico meu conhecimento em projetos pessoais e profissionais, criando soluções concretas e proporcionando experiências agradáveis e intuitivas para os usuários. Busco incansavelmente seguir as melhores práticas de programação e usabilidade, garantindo que os usuários desfrutem da melhor experiência possível 👩🏻‍💻</p>
   </div>
 
