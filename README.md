@@ -7,10 +7,12 @@
   
   
 <div align="initial">  
-<p>
-    Com dedicação e foco, hoje sigo atuando na área como desenvolvedora Front-End, lidando com aplicações web e Mobile.
-Vivenciando uma rotina regrada de estudos onde estou busco desenvolver cada vez mais minhas habilidades. </p>
-   <p> Minha jornada envolve não apenas a busca incessante por conhecimento nas tecnologias fundamentais para o front-end, mas também o aprimoramento das minhas competências em usabilidade, design e desenvolvimento web de forma abrangente. </p> <p> Constantemente aplico meu conhecimento em projetos pessoais e profissionais, criando soluções concretas e proporcionando experiências agradáveis e intuitivas para os usuários. Busco incansavelmente seguir as melhores práticas de programação e usabilidade, garantindo que os usuários desfrutem da melhor experiência possível 👩🏻‍💻</p>
+  <p>
+  
+Atuando diariamente no desenvolvimento web e de aplicativos, mergulho em uma rotina disciplinada de estudos, direcionada ao meu aprimoramento profissional. Além disso, minha trajetória abrange expertise em usabilidade e design de maneira abrangente 👩🏻‍💻
+
+Deseja conhecer mais sobre minha jornada? Explore meu site pessoal e sinta-se à vontade para entrar em contato. :D</p>
+
   </div>
 
 <div align="center">
