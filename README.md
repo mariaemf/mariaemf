@@ -11,11 +11,7 @@
   
 Atuando diariamente no desenvolvimento web e de aplicativos, mergulho em uma rotina disciplinada de estudos, direcionada ao meu aprimoramento profissional. Além disso, minha trajetória abrange expertise em usabilidade e design de maneira abrangente 👩🏻‍💻
 
-Deseja conhecer mais sobre minha jornada? Explore meu site pessoal e sinta-se à vontade para entrar em contato ✨ </p>
-
-  </div>
-
-
+Deseja conhecer mais sobre minha jornada? Explore meu site pessoal e sinta-se à vontade para entrar em contato 👩🏻‍💻</p>
 
 [![mariaemf](https://github-readme-stats.vercel.app/api?username=mariaemf&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![mariaemf](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaemf&hide=html&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
