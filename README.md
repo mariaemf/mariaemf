@@ -21,7 +21,6 @@ Deseja conhecer mais sobre minha jornada? Explore meu site pessoal e sinta-se à
     <img align="center" alt="Tailwind" height="30" width="40" src="https://skillicons.dev/icons?i=tailwind&theme=light">
     <img align="center" alt="styledcomponents" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents&theme=light">
     <img align="center" alt="nextjs" height="30" width="40" src="https://skillicons.dev/icons?i=nextjs&theme=light">
-    <img align="center" alt="git" height="30" width="40" src="https://skillicons.dev/icons?i=git&theme=light">
     <img align="center" alt="bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=light">
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
