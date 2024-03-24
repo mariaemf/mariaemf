@@ -9,7 +9,7 @@
 <div align="initial">  
   <p>
   
-Atuando diariamente no desenvolvimento web e de aplicativos, mergulho em uma rotina disciplinada de estudos, direcionada ao meu aprimoramento profissional. Além disso, minha trajetória abrange expertise em usabilidade e design de maneira abrangente 👩🏻‍💻
+Atuo diariamente no desenvolvimento web e de aplicativos, sigo em uma rotina disciplinada de estudos, direcionada ao meu aprimoramento profissional. Além disso, minha trajetória abrange expertise em usabilidade e design de maneira abrangente 👩🏻‍💻
 
 Deseja conhecer mais sobre minha jornada? Explore meu site pessoal e sinta-se à vontade para entrar em contato ✨</p>
 
