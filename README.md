@@ -22,7 +22,6 @@
     </a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=26&center=true&vCenter=true&width=900&lines=Open+to+work;Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Clean+UI+%2B+Performance+%2B+DX" />
 </div>
 
 ---
