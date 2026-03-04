@@ -33,7 +33,6 @@ I’m a multi-disciplinary developer who loves turning complex problems into fas
 I bridge design and engineering to ship scalable UI, consistent components, and production-ready experiences.
 
 - Focus: **Web Apps**, **CMS-driven sites**, **UI delivery**
-- Currently: **Open to work**
 - Location: **Brazil (remote)**
 
 ---
