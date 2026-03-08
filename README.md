@@ -1,7 +1,5 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=140&section=header"/>
-
-  <h1 style="margin: 0;">Maria Freitas</h1>
   <p style="margin-top: 6px;">
     Front-end Developer • React • Next.js • TypeScript <br/>
     Building clean, scalable, and pixel-perfect web experiences.
