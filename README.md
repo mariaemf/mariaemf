@@ -9,7 +9,7 @@ Desenvolvedora de software especializada na criação de aplicações web modern
 
 ---
 
-### Sobre mim
+### Sobre mim!
 
 Sou Desenvolvedora Front-end com experiência profissional desde 2022, especializada no ecossistema React, com foco na construção de aplicações web responsivas, escaláveis e orientadas à experiência do usuário.
 
